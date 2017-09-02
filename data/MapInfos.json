@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"家","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":2,"expanded":false,"name":"家の前","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"城外観","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":4,"expanded":false,"name":"王の間","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"火山","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"砂漠","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":7,"expanded":false,"name":"遺跡","order":7,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":8,"expanded":false,"name":"雪道","order":8,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":9,"expanded":false,"name":"体内","order":9,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":10,"expanded":false,"name":"教会","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"ラストダンジョン","order":11,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":12,"expanded":false,"name":"魔王の間","order":12,"parentId":0,"scrollX":451,"scrollY":407.5}
+]
